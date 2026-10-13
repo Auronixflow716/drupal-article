@@ -10,3 +10,5 @@
 /frontend/dist/
 /frontend/.astro/
 .ddev/
+.env
+/frontend/.env
